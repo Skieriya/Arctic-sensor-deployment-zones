@@ -8,7 +8,7 @@ This pipeline identifies methane ($CH_4$) hotspots across the Alaskan tundra. As
 This project addresses specific environmental challenges highlighted in recent Arctic research:
 
 * **The 2025 "Sink-to-Source" Shift:** Recent reports from the Arctic Council confirm that large sections of the Alaskan North Slope have officially transitioned from carbon sinks to net carbon sources.
-* **Abrupt Thaw Events (2026):** New data shows that "abrupt thaw" events—where permafrost collapses rapidly into thermokarst lakes are releasing methane at rates 2x higher than previously modeled.
+* **Abrupt Thaw Events (2026):** New data shows that "abrupt thaw" events where permafrost collapses rapidly into thermokarst lakes are releasing methane at rates 2x higher than previously modeled.
 * **Sensor Gap:** Traditional monitoring is sparse. This pipeline provides a data-driven strategy to place sensors where they will capture the most significant "legacy carbon" release.
 
 ## Technical Implementation
