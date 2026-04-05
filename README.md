@@ -1,7 +1,3 @@
-# Arctic-sensor-deployment-zones
-
-
-
 
 # Alaska Permafrost: Methane Hotzone Detection & Sensor Deployment
 
